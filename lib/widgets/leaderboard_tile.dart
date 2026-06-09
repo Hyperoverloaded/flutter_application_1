@@ -22,4 +22,4 @@ class LeaderboardTile extends StatelessWidget {
       ),
     );
   }
-}
+} 
